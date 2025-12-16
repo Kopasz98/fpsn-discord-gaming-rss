@@ -34,7 +34,6 @@ RSS_FEEDS = [
     "https://stealthoptional.com/feed/",
     "https://siege.gg/rss",
     "https://racinggames.gg/feed/",
-    "https://mtgrocks.com/feed/",
     "https://epicstream.com/feed",
     "https://www.bluesnews.com/feed/",
     "https://www.metacritic.com/rss/games",
